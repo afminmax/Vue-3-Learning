@@ -1,0 +1,13 @@
+# dependencies
+
+# testing
+
+# production
+__pycache__/
+
+# misc
+.env
+*.json
+
+# key directories
+keys/
